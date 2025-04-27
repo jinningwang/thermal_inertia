@@ -1,5 +1,11 @@
 # TurbineGov Study
 
+## Install from IEEEG1NL branch
+
+```bash
+pip install git+https://github.com/jinningwang/andes.git@ieeeg1nl
+```
+
 ## ACTIVSg200
 
 ``IL200_opf.xlsx`` and ``IL200_dyn.xlsx`` are revised from below reference.
